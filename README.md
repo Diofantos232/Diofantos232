@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ## I am a Game Developer and try to do interesting games.
 My game jam project:
-![link]([http://url/to/img.png](https://diofantos232.itch.io/perfectly-balanced) "Perfectly Balanced")
+[Perfectly Balanced]([http://url/to/img.png](https://diofantos232.itch.io/perfectly-balanced))
 
 
 <!--
