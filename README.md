@@ -1,5 +1,5 @@
-### Hi there 👋 
-## I am a Game Developer and try to do interesting games.
+## Hi there 👋 
+### I am a Game Developer and try to do interesting games.
 My game jam project:
   [Perfectly Balanced](https://diofantos232.itch.io/perfectly-balanced)
 
