@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am a Game Developer and try to do interesting games.
+My game jam project:
+
 
 <!--
 **Diofantos232/Diofantos232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
