@@ -2,6 +2,7 @@
 ### I am a Game Developer and try to do interesting games.
 My game jam project:
   [Perfectly Balanced](https://diofantos232.itch.io/perfectly-balanced)
+  <br/>
 Games I was made (with my team): 
   [Dusza Kibica](https://devjacek112.itch.io/duszakibica)
 
